@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aa61c08be4a00744c966ce3da01afcd7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Dexa Pro Med
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8036359293896154d86aa572e33be8d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

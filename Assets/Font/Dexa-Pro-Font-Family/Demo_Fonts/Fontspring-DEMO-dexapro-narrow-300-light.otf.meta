@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: debaef9c155006c4280455904f6b9122
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Dexa Pro Nr Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8dbcbfa6b17513e449bb7470229ceea2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

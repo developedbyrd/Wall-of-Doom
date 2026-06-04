@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5d361272bc2294640bb1d2349d0d0586
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Dexa Pro SmBd
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7a5e84194e6287644922ec83b55b15b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

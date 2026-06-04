@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2b91ea127b81b99449d77c359ec0518e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Greycliff CF Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1a09e35fcee408048a824ce9bd898903, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

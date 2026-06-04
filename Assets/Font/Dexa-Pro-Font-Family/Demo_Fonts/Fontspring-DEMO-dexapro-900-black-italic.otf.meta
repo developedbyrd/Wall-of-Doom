@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d6e3b63f12c2604479b29ceb5fc25f96
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Dexa Pro Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 962b70bee5589d042b30db3d043e3cc3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

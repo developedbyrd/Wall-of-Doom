@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3c3192b52abf50d4aa09bc1b84a41a46
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Dexa Pro Cn ExtLt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 99c1b6eb1fa0db94989722fa3925883f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

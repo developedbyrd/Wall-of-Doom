@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 89590cade39a4b14da104725c907b945
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Dexa Pro Nr
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 445383ab20deda14d85d5bd9c70ab159, type: 3}
+  - {fileID: 12800000, guid: c2005c122165c5e46a3d9ea20ab66f0c, type: 3}
+  - {fileID: 12800000, guid: d324311a08ead1848afa58713649dcab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
